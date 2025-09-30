@@ -1,22 +1,22 @@
 [
   {
     "name": "Polkadot RPC (IBP)",
-    "url": "https://148.163.222.156:443/polkadot",
-    "icon": "https://icons.duckduckgo.com/ip3/148.163.222.156.ico",
+    "url": "https://rpc.ibp.network/polkadot",
+    "icon": "https://icons.duckduckgo.com/ip3/rpc.ibp.network.ico",
     "slug": "polkadot-rpc-ibp",
-    "status": "down",
-    "uptime": "3.19%",
-    "uptimeDay": "3.19%",
-    "uptimeWeek": "3.19%",
-    "uptimeMonth": "3.19%",
-    "uptimeYear": "3.19%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
+    "status": "up",
+    "uptime": "0.59%",
+    "uptimeDay": "0.59%",
+    "uptimeWeek": "0.59%",
+    "uptimeMonth": "0.59%",
+    "uptimeYear": "0.59%",
+    "time": 407,
+    "timeDay": 407,
+    "timeWeek": 407,
+    "timeMonth": 407,
+    "timeYear": 407,
     "dailyMinutesDown": {
-      "2025-09-30": 0
+      "2025-09-30": 7
     }
   }
 ]
