@@ -23,16 +23,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/148.163.222.156.ico",
     "slug": "polkadot-rpc-ibp-cl",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "5.81%",
+    "uptimeDay": "5.81%",
+    "uptimeWeek": "5.81%",
+    "uptimeMonth": "5.81%",
+    "uptimeYear": "5.81%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-09-30": 0
+    }
   }
 ]
