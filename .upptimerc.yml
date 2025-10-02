@@ -13,18 +13,6 @@ sites:
       - 200
     __dangerous__body_down_if_text_missing: '"result"'  # Check for valid JSON-RPC response
 
-  - name: Polkadot RPC (IBP) - cl 
-    url: https://148.163.222.156/polkadot
-    method: POST
-    headers:
-      - "Host: rpc.ibp.network"
-      - "Content-Type: application/json"
-    body: '{"jsonrpc": "2.0", "id": 1, "method": "system_health", "params": []}'
-    expectedStatusCodes:
-      - 200
-    __dangerous__body_down_if_text_missing: '"result"'
-    __dangerous__insecure: true  # For self-signed certs
-
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
