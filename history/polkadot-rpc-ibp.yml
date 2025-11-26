@@ -1,7 +1,7 @@
 url: https://rpc.ibp.network/polkadot
-status: down
-code: 500
-responseTime: 525
-lastUpdated: 2025-11-25T23:53:56.762Z
+status: up
+code: 200
+responseTime: 613
+lastUpdated: 2025-11-26T01:43:53.873Z
 startTime: 2025-09-30T02:21:54.073Z
 generator: Upptime <https://github.com/upptime/upptime>
